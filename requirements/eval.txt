@@ -1,2 +1,4 @@
 llmuses>=0.4.0
 ms-opencompass
+requests>=2.32.4 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
